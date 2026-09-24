@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="t"><title id="t">Organic farm fields at sunrise</title>
+<rect width="1200" height="600" fill="#F4E6B8"/><circle cx="880" cy="250" r="110" fill="#E3B23C"/><circle cx="880" cy="250" r="160" fill="#E3B23C" opacity=".25"/>
+<path d="M0 330 Q300 250 600 310 T1200 280 V600 H0Z" fill="#8FAE6B"/>
+<path d="M0 390 Q350 320 700 380 T1200 360 V600 H0Z" fill="#5E8B4A"/>
+<path d="M0 450 Q400 400 800 450 T1200 440 V600 H0Z" fill="#2F5D3A"/>
+<g stroke="#244A2E" stroke-width="6" fill="none" opacity=".6"><path d="M-50 600 Q300 470 620 460"/><path d="M100 600 Q400 490 700 470"/><path d="M280 600 Q520 510 780 480"/><path d="M480 600 Q660 520 860 490"/><path d="M700 600 Q820 530 940 500"/></g>
+<g fill="#6B4F3A"><rect x="180" y="250" width="90" height="70"/><path d="M170 255 L225 205 L280 255Z" fill="#8B3A2B"/><rect x="212" y="285" width="26" height="35" fill="#F4E6B8"/></g>
+<g fill="#244A2E"><circle cx="360" cy="260" r="34"/><rect x="355" y="285" width="10" height="40"/><circle cx="410" cy="275" r="24"/><rect x="406" y="292" width="8" height="30"/></g>
+</svg>

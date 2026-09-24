@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="t"><title id="t">FarmFresh organic farm shop</title>
+<rect width="800" height="450" fill="#DCEBF0"/><path d="M0 330 Q400 280 800 330 V450 H0Z" fill="#8FAE6B"/>
+<rect x="250" y="170" width="300" height="170" fill="#F7F8F2"/><path d="M230 180 L400 90 L570 180Z" fill="#2F5D3A"/>
+<g fill="#E3B23C"><path d="M250 180 h40 v30 h-40Z M330 180 h40 v30 h-40Z M410 180 h40 v30 h-40Z M490 180 h40 v30 h-40Z"/></g>
+<rect x="370" y="250" width="60" height="90" fill="#6B4F3A"/><rect x="280" y="240" width="60" height="50" fill="#BFD6DE"/><rect x="460" y="240" width="60" height="50" fill="#BFD6DE"/>
+<rect x="600" y="280" width="90" height="50" fill="#A9784E"/><g fill="#C8392B"><circle cx="620" cy="275" r="12"/><circle cx="645" cy="275" r="12"/></g><g fill="#E07A2E"><circle cx="670" cy="275" r="12"/></g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-labelledby="t"><title id="t">Certified organic label on food packaging</title>
+<rect width="600" height="450" fill="#F7F8F2"/>
+<rect x="140" y="60" width="320" height="340" rx="14" fill="#fff" stroke="#C9D3BC" stroke-width="4"/>
+<circle cx="300" cy="200" r="100" fill="#2F5D3A"/><circle cx="300" cy="200" r="84" fill="none" stroke="#E3B23C" stroke-width="5" stroke-dasharray="10 8"/>
+<path d="M300 150 C250 190 260 250 300 255 C340 250 350 190 300 150Z" fill="#9BC46B"/><path d="M300 165 V255" stroke="#2F5D3A" stroke-width="5"/>
+<rect x="190" y="320" width="220" height="16" rx="8" fill="#DDE4D2"/><rect x="220" y="350" width="160" height="12" rx="6" fill="#DDE4D2"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="t"><title id="t">Healthy soil supporting biodiversity</title>
+<rect width="800" height="220" fill="#DCEBF0"/><rect y="220" width="800" height="280" fill="#6B4F3A"/><rect y="220" width="800" height="40" fill="#4E3A2A"/>
+<g fill="#5E8B4A"><path d="M120 220 q-10 -80 -60 -110 q60 10 60 110Z"/><path d="M120 220 q10 -90 70 -120 q-60 30 -70 120Z"/><path d="M400 220 q0 -120 -50 -150 q70 20 50 150Z"/><path d="M400 220 q10 -100 70 -130 q-60 30 -70 130Z"/><path d="M660 220 q-5 -90 -50 -110 q55 15 50 110Z"/><path d="M660 220 q10 -80 60 -100 q-50 30 -60 100Z"/></g>
+<g stroke="#D9C3A5" stroke-width="3" fill="none"><path d="M120 260 q-20 60 10 120 M120 300 q30 40 20 90"/><path d="M400 260 q-30 80 0 180 M400 320 q40 30 30 100"/><path d="M660 260 q20 60 -10 120"/></g>
+<path d="M230 400 q30 -20 60 0 t60 0" stroke="#C98A7A" stroke-width="12" fill="none" stroke-linecap="round"/>
+<g fill="#8A6B52"><circle cx="520" cy="330" r="10"/><circle cx="560" cy="420" r="7"/><circle cx="260" cy="320" r="8"/><circle cx="720" cy="440" r="9"/></g>
+<g fill="#E3B23C"><circle cx="250" cy="120" r="8"/><path d="M242 120 q-14 -14 -20 0 q6 14 20 0Z M258 120 q14 -14 20 0 q-6 14 -20 0Z" fill="#fff" opacity=".8"/></g>
+</svg>

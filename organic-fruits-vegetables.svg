@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="t"><title id="t">Fresh organic fruits and vegetables</title>
+<rect width="600" height="400" fill="#F1EEDC"/>
+<circle cx="200" cy="220" r="80" fill="#C8392B"/><path d="M200 140 q10 -30 30 -35" stroke="#6B4F3A" stroke-width="8" fill="none"/><path d="M215 125 q30 -25 50 0 q-30 15 -50 0Z" fill="#5E8B4A"/>
+<circle cx="380" cy="230" r="70" fill="#E3B23C"/><circle cx="380" cy="230" r="70" fill="none" stroke="#C9941F" stroke-width="4" stroke-dasharray="3 9"/>
+<path d="M280 320 l30 -120 l30 120Z" fill="#E07A2E"/><path d="M300 200 q-10 -30 10 -40 q20 10 10 40Z" fill="#5E8B4A"/>
+<ellipse cx="470" cy="310" rx="60" ry="30" fill="#6FA34A"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="t"><title id="t">Organic whole grains and pulses</title>
+<rect width="600" height="400" fill="#F4EAD2"/>
+<path d="M170 350 q-50 0 -50 -60 l20 -120 h140 l20 120 q0 60 -50 60Z" fill="#B78B5A"/><path d="M140 170 q70 -40 140 0" fill="none" stroke="#8C6640" stroke-width="10"/>
+<g fill="#E3B23C"><ellipse cx="180" cy="160" rx="10" ry="6"/><ellipse cx="200" cy="150" rx="10" ry="6"/><ellipse cx="220" cy="158" rx="10" ry="6"/><ellipse cx="240" cy="150" rx="10" ry="6"/></g>
+<g stroke="#C9941F" stroke-width="6" fill="none"><path d="M420 350 V120"/><path d="M460 350 Q470 220 440 110"/><path d="M380 350 Q370 220 400 110"/></g>
+<g fill="#E3B23C"><ellipse cx="420" cy="120" rx="8" ry="16"/><ellipse cx="420" cy="150" rx="8" ry="16"/><ellipse cx="440" cy="115" rx="8" ry="16"/><ellipse cx="400" cy="115" rx="8" ry="16"/><ellipse cx="410" cy="140" rx="8" ry="14"/><ellipse cx="432" cy="140" rx="8" ry="14"/></g>
+</svg>
